@@ -1,1 +1,2 @@
 # odin-recipes
+Part of the curriculum in the open-source Odin Project. The task of this project is to create a basic recipe website using the knowledge gained sofar (basic CLI commands, website folder structure, HTML elements/parameters etc.)
